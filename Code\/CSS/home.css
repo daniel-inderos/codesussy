@@ -19,6 +19,8 @@ li {
 }
 
 .parent {
-    padding-top: 20%;
+    padding-top: 21%;
+    border-radius: 69px;
+    border-color: white;
   }
   
